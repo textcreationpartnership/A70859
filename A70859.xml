@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prognosticall prediction of admirable events that are like to happen within His Majesties dominions, especially in England, within lesse than a yeares compasse and amongst others that in all probability His Maiestie, for all this, shall lay downe his sword, and take up his septer : and that such as are truely false to him, his friendly enemies, shall by their owne policies and powers breake their owne necks, and so at once recover both the freedoms and love of their countrey : besides such as have any skill in physiognomy, may by be-holding certaine pictures here, discover the malicious minds and prevent the pernicious practises of many that have as base hearts though not so brave habits.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70859</idno><idno type="EEBO-CITATION">11878001</idno>
+  <idno type="VID">50278</idno>
+  <idno type="EEBO-PROQUEST">2240898222</idno>
+  
+            <idno type="STC">Wing P3650</idno>
+            <idno type="STC">ESTC R2443</idno>
+            <idno type="OCLC">11878001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E2, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Prognosticall prediction of admirable events that are like to happen within His Majesties dominions, especially in England, within lesse than a yeares compasse and amongst others that in all probability His Maiestie, for all this, shall lay downe his sword, and take up his septer : and that such as are truely false to him, his friendly enemies, shall by their owne policies and powers breake their owne necks, and so at once recover both the freedoms and love of their countrey : besides such as have any skill in physiognomy, may by be-holding certaine pictures here, discover the malicious minds and prevent the pernicious practises of many that have as base hearts though not so brave habits.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>according to order for G. Bishop,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>July 13, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50278:1"/>
+            <p>A Prognosticall PREDICTION <hi>OF</hi> Admirable <hi>EVENTS</hi> that are like to Happen within his <hi>Majesties Dominions</hi> (Especially in <hi>ENGLAND</hi>) within lesse than a yeares compasse; and amongst others, that in all probability his Majestie (for all this) shall lay downe his Sword, and take up his Septer</p>
+            <figure>
+               <figDesc>depiction of King Charles I of England, grasping the royal scepter in his right hand while releasing his grip on the sword in his left hand</figDesc>
+            </figure>
+            <p>AND That such as are truely false to him, his Friendly Enemies, shall by their owne policies and powers breake their owne necks, and so at once recover both the freedome and love of their Countrey.</p>
+            <p>Besides such as have any skill in Physiognomy, may by be<g ref="char:EOLhyphen"/>holding certaine Pictures here, discover the malicious minds, and prevent the pernicious practises of many that have as base Hearts though not so brave habits.</p>
+            <p>Printed at London according to Order for <hi>G. Bishop, July</hi> 13. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:50278:2"/>
+            <head>A Prognosticall Prediction, <hi>OF Admirable Events,</hi> That are like to happen within His Majesties Dominions.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am not here to meddle with any part of the Pro<g ref="char:EOLhyphen"/>phesies of <hi>Merlin,</hi> or Mother <hi>Shipton,</hi> or to speak of the affections and dispositions of the Starres, and Planets, and yet I must tell ye of something that some of these have had somewhat to doe withall. The Sun, Moon and Starres are the vi<g ref="char:EOLhyphen"/>sible Majestie of the Heavens, when they appeare in their splendor, and no doubt doe inlighten or eclipse the majestie of Earthly Princes with their good or bad Influences; he therefore that will undertake to tell stories of States, had need to be well acquainted with the Starres; I know but lit<g ref="char:EOLhyphen"/>tle (though more then I meane to publish) and yet (I doubt) I shall tell ye more then you'l be willing to beleeve; but give your mindes to't a lit<g ref="char:EOLhyphen"/>tle; part with as much faith as ye can spare, the truth will be discovered in lesse then a twelve-moneth; and for my part, if I faile in my first work, I'le never make Alminack more.</p>
+            <p>To tell you what his Majestie hath done, I shall not need, 'tis known too well already: to tell you what he should doe, I will not undertake, that has been done beforehand, and well done (by many, to little purpose) but to tell ye what he will doe (the hardest matter of all, and such a thing as I feare will be thought unfit for a wise man to meddle with) that shall be my businesse.</p>
+            <p>I shall (no question) run crosse to other Prognostications, yet you
+<pb n="3" facs="tcp:50278:2"/> shall meet with as much truth heere as may be promised from the Pla<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> I trade with; It is conceiv'd by many, that would be thought wise men, that his Maiestie will run on in the course he hath began, and never give over till he hath over-runne his Kingdome, or be given over of his peo<g ref="char:EOLhyphen"/>ple, which conjecture, <hi>I</hi> confesse, is very probable: but it ought to be un<g ref="char:EOLhyphen"/>derstood, that Kings are extraordinary creatures, and that the starres have a stranger working in their workes then every one's aware of; an or<g ref="char:EOLhyphen"/>dinary man is subiect to shame and reproach, a small slip wrinches his legg, if he steale a horse, break a house, or pick a pocket, hee's laid hold on with<g ref="char:EOLhyphen"/>out feare, and punished without favour; good men must suffer, bad Princes must be prais'd; (Reason keep off, thou hast nothing to doe with this An<g ref="char:EOLhyphen"/>gument) if there be any struggling i'th State, or combustion in the Com<g ref="char:EOLhyphen"/>mon-wealth, there may bee ill members, there may bee bad Coun<g ref="char:EOLhyphen"/>sellors, mischiefe cannot bee contrived, nor murther done, but there must bee Plotters and Actors, meere men, inferiour creatures, people subiect to infirmities, and sufferings, such as may offend Lawes, and be punish'd by 'em; but Kings can doe no wrong; to be a King, is more then to be a man; what are iniuries in others, are favours in Princes; whe<g ref="char:EOLhyphen"/>ther the very atribute alters the Act or no, ther's the question. But by this wee may conveigh our apprehensions further, and finde (no doubt) at much preheminence i'the will, as there is i'the power.</p>
+            <p>'Tis granted, that the State appears now to be in a sad condition, and his Maiestie in the way to cut off his Parliament, confound his lawes, de<g ref="char:EOLhyphen"/>stroy his Kingdomes, and bring himself and his Posterity to ruine, being (as 'tis generally apprehended) the first mover in this Orbe of destraction, in which all is whirl'd about with such violence, that he that sees &amp; suffers, cannot chuse but think upon the story of <hi>Phaeton;</hi> But to say that Kings cannot as easily turne, and have good affections, as they can persist in fa<g ref="char:EOLhyphen"/>vouring bad actions, were to lay an aspertion upon higher Powers then their owne, and to make them inferiour (in their capacities) to their mea<g ref="char:EOLhyphen"/>nest Subiects. That God that hath indued a King with the soul, shape and substance of a man, the countenance, gesture, language, ioy, griefe, anger, hope, feare, love, and all other properties and Passions outward and inward, features, and faculties, with transcendent Power and Maiesty to boote, can when he pleases adde Grace to Greatnesse, Reason to Roy<g ref="char:EOLhyphen"/>alty, and make of an absolute man, an absolute Monarch, for a Prince that will rule as he ought, may rule as he list. Let us therefore consider what may be; And that <hi>Must</hi> is for the King: His Maiestie must goe no further then the King of Kings will permit him: when his heart is once touch'd with the sense of his own crosse Condition, and his peoples miseries (as
+<pb n="4" facs="tcp:50278:3"/> that must be) the sudden turne will be such, that all will appeare new in an instant, the State will be clad in a new habit, the Lords will have new hearts, the Commons new affections, the Citie will alter her posture, and the Countrie her humour, mourning will (every where) be turn'd into mirth, rage into reason, fear into ioy, and the greatest enmitie that ever was set a foot by infernall mallice, into the greatest amitie that ever was wrought by Divine Providence. All the past passages that have so terri<g ref="char:EOLhyphen"/>fied other Nations with noise, and our owne with sufferings; will seem to have been mistakes; and 'twill be as great a wonder to perceive them so soon forgot, as 'tis to see 'em so furiously followed. His Maiestie will returne with such ioy, complie with such zeale, and signe to all good laws with such willingnesse, that 'twill be generally thought, his holding off so long was onely to try what mettall his Parliament was made of, whether <hi>England</hi> would stand out manfully to preserve her owne lawes and pri<g ref="char:EOLhyphen"/>viledges, and to make his people more warie and watchfull upon all occa<g ref="char:EOLhyphen"/>sions hereafter to keep off Tirany and Oppression; (and this they seem to be forwarder in then (yet) he desires. His Ig-noble Lords at Court, that have done their best to undoe him with their b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Councells, will soon lay by their rotten honours, of the last Edition, and either endeavour to get better purchase by better practise, or else leave the Court, and countie honour enough to be honest.</p>
+            <p>His Cavaliers that have so long, so vil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nously rob'd him both of his wealth and honour, will be sorry they have spilt so much blood about so base a businesse, and (seeing his Maiestie a friend to himself) become for his sake friends to his Kingdome.</p>
+            <p>The Papists that have plotted all this mischief, and writ the Story of their obedience to their King, with the blood of their Countrey-men, will (no doubt) be good to his Majestie, when they shall know him a Prote<g ref="char:EOLhyphen"/>stant, that hath been so good to them all this while, us to be (for their sakes) willing to be accounted a Papist, and suffer the Protestants to be slaine.</p>
+            <p>The Malignants (if there be any left) will be either sorrowfully peni<g ref="char:EOLhyphen"/>tent, or dangerously desperate, such as shall not then be fit for the Cove<g ref="char:EOLhyphen"/>nant, will hardly be fit for any thing but the Gallowes.</p>
+            <p>But the old Cloak of dissimulation will be growne so thinne and thred<g ref="char:EOLhyphen"/>bare, that it will no longer be able to hide the knavery of his Majesties greatest friends, that are now so forward to cry, God save the King, whilst he pleases them with promise of Promotion, for their good service, and they him with the care and paines they take to make it impossible for him to keep his promise; these will be alwayes so watchfull over his steps,
+<pb n="5" facs="tcp:50278:3"/> and so fearfull of his recoverie, that when they shall see him in the right way their mallice will grow venomous, 'twill be dangerous trusting them any more about his person. But when (in spight of their spleene) he shall become free from apparant danger abroad, and applie himself to his faithfull councell at home, (if there doe not some fatall Comet appeare in the West presently, and marre all i'th making, the malignity of the other starres will be so wasted, that there will be great hopes of a constant reco<g ref="char:EOLhyphen"/>very. But in the meane time, as long as <hi>Saturne, Mars</hi> and <hi>Mercury</hi> are predominant, looke for as much mischief as mallice can produce; the Serpent has got a blow, and now he feel's it smart, hee rages, strives and struggles, for though his strength be abated, his furi's augmented, he was hurt against his will, and will not be kill'd willingly; there wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l yet be somewhat to doe before he give up the Ghost. The Devill is a bad ene<g ref="char:EOLhyphen"/>mie, though he be a worse friend; 'tis not i'the power of man to overcome him, unlesse it be with kindnes, and that's that he looks for: The Roaring Royalists have got the length of his foot, they know how to humour him, but (hang 'em) they know they shall lose nothing by 'e, they may tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him, he is no Roundhead, but a constant friend (where he takes) to the la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t minute: now if the Devill be so great with 'em, and so strong of himself (as they say he is) of what strength is his Armie wherein are many thousands little inferior to himself, that have been bred up in his own School, and are able to deale with him at his owne weapon? Here we have somewhat to dishearten us, but we have somewhat againe to incourage us; wee can hardly kill them if we would, because they are so strong, but we may law<g ref="char:EOLhyphen"/>fully kill them if we can because they are so bad. A good cause speake; him a villaine that opposes it, and a bad one, him that maintaines it.</p>
+            <p>Let us but make use of the small strength God hath given us, and let them alone with the rest; they that have honestie enough, and grace enough to plot the ruine of their owne Nation, cannot chuse but have re<g ref="char:EOLhyphen"/>solution enough, and malice enough to worke their owne destruction. But it seemes they have been somewhat doubtfull of their owne abilities, and have therefore wisely got to their assistance all the Papists in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and all the Rebells (that can be spar'd) out of <hi>Ireland</hi> to helpe be a dead lift, that they might not perish alone, but that their poore Countrey might (now at length) be altogether freed from feare of future Rebel<g ref="char:EOLhyphen"/>lion by the utter extirpation of that monstrous crew. No doubt they will recover much love, and many good words for performing their last Act so bravely which otherwise would be hated of all good men if they should live till Doomes-day; the onely way to make themselves happy, is to leave the world that they have made so unhappy. What the Statros threa<g ref="char:EOLhyphen"/>ten,
+<pb n="6" facs="tcp:50278:4"/> I know not, but he that rules the stars, hath promised to see this effected; tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s a Commission out already under the Broad Seale of Heaven, where<g ref="char:EOLhyphen"/>in there is no command to kill Innocents, or murther Protestants; but all that have had a hand in these damnable Plotts and Conspiracios, these in<g ref="char:EOLhyphen"/>humane murders and massacres, are by vertue thereof without suddain and sound repentance, to suffer here and hereafter. Now what these are in ge<g ref="char:EOLhyphen"/>nerall, is known to all bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themselves, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know nothing, but that the mindes of m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of lesse note (b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of equall mallice) may be understood, you shall heers see the Pictu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of some great ones, whose malignant hu<g ref="char:EOLhyphen"/>mours so alter'd their complexions, before they were drawne, that no ho<g ref="char:EOLhyphen"/>nest man but will take 'em to be <hi>Turks;</hi> when (alas) they were bred and born in <hi>Eng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and,</hi> and past for Christians a long time.</p>
+            <p>The Du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>Buckingham</hi> was a brave man, and had the love of two Kings; but rumour ran about the Countrey, and told strange tales of him: he was thought to be guilty of taking away his last breath, that gave him his first honour; but being above the reach of a Parliament, heaven that was above his reach, paid him for that and all other his villanies, and mur<g ref="char:EOLhyphen"/>thers at once: <hi>England</hi> has been slow in executing Justice, and <hi>England</hi> smarts for't. Our King (that hath now given over his government, and sights for a new one) cul'd the Kingdome then, but the Duke rul'd him, the Jesuites rul'd the Duke, the Pope the Jesuites, and who (d'ye think) rul'd the Pope?—</p>
+            <p>
+               <hi>Canterbury</hi> crept up by degrees, that he might not be counted an up<g ref="char:EOLhyphen"/>start, the Duke at first made room for him at Court, and he made as much haste as he could to make the Court sit for <hi>Rome;</hi> he wheel'd about from one Bishoprick to another, till he came to be Metrapolitane, and then (by the Popes leave) he took upon him the government of Church and Com<g ref="char:EOLhyphen"/>mon-wealth: He hath done so much good for his Country, that the Chro<g ref="char:EOLhyphen"/>nicle of his life is prepared before his death, to put him in minde of his merrit, sure the Parliament found him to be but grosse mettall at first, they have tried him so often, but they have done the best they can to refine him here, that he might passe through the other Purgatory with more case, and lesse trouble.</p>
+            <p>
+               <hi>Strafford</hi> was honest as long as he was free from Court-coniurations, but as soon as the Duke and the Bishop had shew'd him the Devill <hi>(Am<g ref="char:EOLhyphen"/>bition)</hi> in a Circle, he forsook his faith, chang'd his opinion, renounc'd his integrity, and turn'd Courtier; His Maiesty, that lou'd musick so well, was now furnish'd with admirable Instruments, the Bishop was his great Or<g ref="char:EOLhyphen"/>gan-pipe, the Duke his Base-Violl, <hi>Strafford</hi> his Irish-Harpe, and <hi>Cotting<g ref="char:EOLhyphen"/>ton, Finch</hi> and <hi>Windebanke,</hi> were the Meanes, to make up a cursed Consort;
+<pb n="7" facs="tcp:50278:4"/> but these Fidlers have forsook him, all but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rafty <hi>Cot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ington,</hi> who still plaies the <hi>Mercu<g ref="char:EOLhyphen"/>ry</hi> at Court, and with the mellody of his <hi>Spanish</hi> pipe, keeps the eyes of <hi>Argus</hi> seal'd up with fatall slumber.</p>
+            <p>
+               <hi>Digby</hi> is another of his Maiesties Spanish Protestants, the close lanthorn-bearer o'the Court, that perswaded the King to betake stimself to some strong hold, that his fellow Traytors might be protected, whilst he and <hi>German</hi> either went with the Queene into <hi>Holland,</hi> or met with her there, where (according to his promise in an intercepted let<g ref="char:EOLhyphen"/>ter of his) no doubt but he did good service; store of Armes were procur'd, and brought over by him, toward setling of <hi>Peace</hi> in the Kingdom; I have not heard that his Lord<g ref="char:EOLhyphen"/>ship used to be drunk, yet they say he came over disguiz'd, but this w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hee that indea<g ref="char:EOLhyphen"/>voured to raise forces at <hi>Kingston</hi> and thereabouts (a Prologue for the ensuing Trage<g ref="char:EOLhyphen"/>dy) which when he could not effect there, hee and the rest of his faction, easily perswa<g ref="char:EOLhyphen"/>ded his Maiestie to goe as farre as <hi>York,</hi> to do 't; a good subiect.</p>
+            <p>
+               <hi>Newcastle,</hi> the man that hath rob'd us of <hi>Newcastle</hi> the Towne, and forc'd us in winter to get our selves a heat with railing upon him, was not made an Earl for nothing, some black deed must be done to deserve that honour, so that his Lordship tooke upon him the shape of a Collier, that the Devill and he might be more familiar; his Maiestie, though he lov'd the cause well (it seemes) lik'd not this colour, but wash'd off the soile of the Sea-coale, with the title of Marquesse, the addition of this one degree of honor, took away two of honesty; he was bad enough before, but now hee is ingaged to live and die a villaine.</p>
+            <p>Next this Arch-Rebell, comes another Arch (<hi>York</hi> has been upheld by <hi>Arches</hi> in times past, but now 'tis pull'd down by them) Arch-bishop <hi>Williams,</hi> our Countrey<g ref="char:EOLhyphen"/>man of <hi>Whales,</hi> the last Archbishop that shall ever saile in that Sea; this proud Prelat hath liu'd a delicate life, and purchased a great Estate i'the Kingdome, and now hee feares he shall fall, he strives to see all down before him, for to that purpose hee long since provided Armes to be imployd against the Parliament; but the Parliament (in requitall of his love) provided a Lodging for him, and other of his fellowes in the Tower, though upon seeming submission, they soon got their liberties, and as soon for<g ref="char:EOLhyphen"/>got their promises. They say, the brave Bishop hath since turn'd Tragedian, and Acts the part of <hi>Tamberlaine</hi> on horse-back, alas poore Prelates, yee were wont to preach (a little) for great livings, now ye are faine to fight hard for poore ones.</p>
+            <p>The Earle of <hi>Darby</hi> is a King and no King, in <hi>Man,</hi> but not of <hi>Man,</hi> a <hi>Strange</hi> name he has, and is of a strange condition, 'tis a hard matter indeed for a stranger to say what he is, when he knowes not himself what he would be; hee would faine be a Souldier, but there's danger in sighting, and he must be no other, lest hee be counted a coward, thus he dares not but doe what he dares not doe, it has been his fortune still to med<g ref="char:EOLhyphen"/>dle with men that had no minde to be slaves, and so he has mist of his conquest: his good old Father, understanding his Sonnes bad resolution, died with sorrow, but left him the meanes and title of an Earl, that he might purchase an infamie equall to his greatnesse, and he hath ventered as farre, as he durst for his life, to forfit his Estate and Honor.</p>
+            <p>
+               <hi>Goring,</hi> a Colonell, sonne to the old Courtier, that had once so much witt, as to fool himself into a Lord, and afterward so little, as to fool his Lordship out of the King<g ref="char:EOLhyphen"/>dome, could not be content with a pardon for purposing one mischief, but he must pra<g ref="char:EOLhyphen"/>ctise another unpardonable, if hee had beene hanged for the first fault, hee would never have been hurt for the next; he gave the Parliament so good content by speak<g ref="char:EOLhyphen"/>ing what he meant not, that they bestowed the place of honour upon him that he de<g ref="char:EOLhyphen"/>served
+<pb n="8" facs="tcp:50278:5"/> not, being made Governour of one of the chiefest Ports of the Kingdome, he betray'd his trust, and broak his faith, which is like to be a means to break his neck, if the sword or the bullet prevent not the halter.</p>
+            <p>
+               <hi>Lansford,</hi> the ringleader of the Roisters, must not be forgot, hee's a man of as good parts as the worst of them, he hath as sterne a countenance, and sweares with as good a grace as most of your true-bred Courtiers; he was the first that drew his blade in <hi>Westminster-hall,</hi> and laid about him for the preservation of Popery; since when he hath been as forward to fight in a bad cause, as any thief in his Majesties Army.</p>
+            <p>Who hath not heard of <hi>Hastings,</hi> the Rob-carrier, and <hi>Capell</hi> the Cow-stealer, that are become so famous for their fooleries? VVhat a brave ex<g ref="char:EOLhyphen"/>change of life have they made, that were wont to relieve the poore, for which they were prais'd, and pray'd for, and now prey upon the poore, for which they are rail'd upon, and curst; but they can excuse themselves well enough to the world, they doe as they are commanded, they must obey their Prince, they have forgot God and his Commandements, and have been so long in a dreeme, that the Laws of England are quite out of their mindes.</p>
+            <p>
+               <hi>Legge</hi> hath bestir'd himself stoutly; when he and the rest of the rabble perceiv'd themselves smoak'd in their dainty design of bringing up the ar<g ref="char:EOLhyphen"/>my, and pillaging the City, he made one amongst his betters (and yet they were <hi>pares cum paribus</hi>) in venturing into <hi>Hull,</hi> to suprise it; <hi>New-castle</hi> was disguised, that has now disguis'd <hi>Newcastle;</hi> and <hi>Hull,</hi> if shee had chang'd but one letter of her name, might have made her self fit for his entertainment, that had altogether chang'd his name, to fit himself for hers; But this <hi>Leg</hi> carried his masters body the wrong way in this and o<g ref="char:EOLhyphen"/>ther things, for which he was laid by the heeles; but (being stark naught) he wanted not friends, as good as himself, who quickly used means to get their Leg out of stocks againe.</p>
+            <p>When you have vew'd these faces well, that have appeared so amiable in his Majesties eye, cast your consideration upon vulgar villanies, and you shall finde that thousands of inferior place and spirit are furnish't with as much malice, and want nothing but might to doe as much mischiefe. He that speaks against the State must needes be an enemy, and he that speakes not for it, can be no friend: Of these there are more than a good many, I pray God send 'em better mindes to doe good, or lesse meanes to doe harme;</p>
+            <epigraph>
+               <q>Serpents are not to be trusted with their owne Stings.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
